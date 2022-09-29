@@ -14,7 +14,16 @@
 ],
 "info":{
 "version":"v0.1",
-"gates":["QG_1","QG_2","QG_3","QG_4","QG_5","QG_cse"]
+"gates":
+{
+
+"QG_1":{"Checks":["DBG_CHECK_1","DBGHALO2","DBG_CHECK_3"]},
+"QG_2":{"Checks":["DBG_kurwa_1","DBG_CHECK_2","DHRRRRRR_3"]},
+"QG_3":{"Checks":["DBG_CXDECK_1","DBG_CHECK_2","DBG_CHECK_3","DBG_CHECK_4"]},
+"QG_4":{"Checks":["DBG_CHECK_1","DBG_CHECK_z"]},
+"QG_5":{"Checks":["DBG_CHECK_1","DBG_Casd2","DBG_CHECK_3"]},
+"QG_cse":{"Checks":["DBG_CHECK_1","DBG_CHECK_x","DBG_CHECK_sda","DBG_CHASDasd_2","DBG_Csdas_3"]}
+}
 }
 }
 }
